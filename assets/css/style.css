@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,800&display=swap');
 @charset "utf-8";
 
 @-webkit-keyframes ripple {
@@ -253,7 +254,7 @@ h6 {
 
   margin: 0 auto 20px;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
   font-weight: 500;
 
@@ -309,7 +310,7 @@ p {
 
   word-break: break-word;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 a {
@@ -325,7 +326,7 @@ a {
 
   cursor: pointer;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
   word-break: break-word;
 }
@@ -1733,7 +1734,7 @@ button#searchsubmit {
 
   font-weight: 500;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
   padding: 20px 0;
 }
@@ -1951,7 +1952,7 @@ button#searchsubmit {
 .exp-home2-product-a .exp-product-points li {
   margin-bottom: 15px;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .exp-home2-product-a .exp-ceo {
@@ -2624,7 +2625,7 @@ button#searchsubmit {
 .exp-home3-testimonial .slick-prev:before {
   content: '<';
   vertical-align: middle;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 22px;
   color: #7d2a24;
   font-weight: 500;
@@ -2633,7 +2634,7 @@ button#searchsubmit {
 .exp-home3-testimonial .slick-next:before {
   content: '>';
   vertical-align: middle;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 22px;
   color: #7d2a24;
   font-weight: 500;
@@ -3984,7 +3985,7 @@ button#searchsubmit {
 
   color: black;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .exp-pricing-plans-3 .exp-pricing-plans-top h6 {
@@ -4034,7 +4035,7 @@ button#searchsubmit {
 .exp-pricing-plans-3 .exp-pricing-plans-mid ul li {
   padding: 15px 0;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .exp-pricing-plans-3 .exp-pricing-btn {
@@ -4106,7 +4107,7 @@ button#searchsubmit {
 .exp-pricing-accordion .card .card-body p {
   width: 75%;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
   font-size: 16px;
 
@@ -4208,7 +4209,7 @@ button#searchsubmit {
 
   text-align: left;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 #exp-blog5 .exp-blog-wrapper .blog-meta {
@@ -5821,7 +5822,7 @@ button#searchsubmit {
 
   font-weight: 500;
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .exp-coming-1 .exp-footer-social {
@@ -6094,7 +6095,7 @@ button#searchsubmit {
 
   border: 1px solid rgba(255, 255, 255, 0.7);
 
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .exp-footer-style-2 .exp-footer-item-right form .exp-btn-wrapper button {
