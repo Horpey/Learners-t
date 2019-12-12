@@ -16,3 +16,11 @@
 .start-header.scroll-on {
   background: white;
 }
+
+.linkcard {
+  padding: 0px 10px;
+}
+.linkcard-l {
+  padding: 0px 10px;
+  border-right: 1px solid #222222;
+}
